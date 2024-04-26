@@ -1,0 +1,10 @@
+certifi==2022.12.7
+distlib==0.3.6
+filelock==3.9.0
+pipenv==2023.2.4
+platformdirs==3.0.0
+PySide6==6.4.0.1
+PySide6-Addons==6.4.0.1
+PySide6-Essentials==6.4.0.1
+virtualenv==20.19.0
+virtualenv-clone==0.5.7
